@@ -68,7 +68,7 @@ body {
       rgba(0, 0, 0, 0.5),
       rgba(128, 128, 128, 0.5)
     ),
-    url("../../images/header-bike.jpg");
+    url(../images/header-bike.jpg);
   border-radius: 0;
   color: rgb(250, 250, 250);
 }
